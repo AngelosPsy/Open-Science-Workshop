@@ -17,7 +17,7 @@ For the workshop, you will need to install the following (free) software:
 
 Prior to the beginning of the workshop, please download and install the following software:
 - R (https://cran.r-project.org)
-- Rstudio (https:://rstudio.com)
-- Git (https:://git-scm.com/downloads)
-- JASP (jasp-stats.org)
+- Rstudio (https://rstudio.com)
+- Git (https://git-scm.com/downloads)
+- JASP (https://jasp-stats.org)
 
