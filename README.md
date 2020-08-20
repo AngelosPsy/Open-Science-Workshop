@@ -21,3 +21,9 @@ Prior to the beginning of the workshop, please download and install the followin
 - Git (https://git-scm.com/downloads)
 - JASP (https://jasp-stats.org)
 
+## Preregistration material
+- Preregistration templates: https://help.osf.io/hc/en-us/articles/360019738834-Create-a-Preregistration
+- Register reports: https://www.cos.io/our-services/registered-reports
+
+## Open data
+- osf.io
