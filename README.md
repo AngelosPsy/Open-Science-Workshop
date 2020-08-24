@@ -1,4 +1,4 @@
-# Open-Science-Workshop
+# Open Science Workshop
 Materials for the "Understanding and practicing open science" workshop
 
 
@@ -27,3 +27,7 @@ Prior to the beginning of the workshop, please download and install the followin
 
 ## Open data
 - osf.io
+
+## Reading
+If you have time, please read the following article: [A Step-By-Step Guide on Preregistration and Effective Data Sharing for Psychopathology Research](https://www.akrypotos.com/papers/Krypotos2019b.pdf). Please note that we will not use the described software, so you can skip those sections, but a simpler version of that software. 
+
