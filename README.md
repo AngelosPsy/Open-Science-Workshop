@@ -26,7 +26,7 @@ Prior to the beginning of the workshop, please download and install the followin
 - Register reports: https://www.cos.io/our-services/registered-reports
 
 ## Open data
-- osf.io
+- [osf.io] osf.io
 
 ## Reading
 If you have time, please read the following article: [A Step-By-Step Guide on Preregistration and Effective Data Sharing for Psychopathology Research](https://www.akrypotos.com/papers/Krypotos2019b.pdf). Please note that we will not use the described software, so you can skip those sections, but a simpler version of that software. 
